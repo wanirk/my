@@ -1,5 +1,5 @@
 {"Comands":[
-    "up",
-    "down"
+    "up"=true,
+    "down=true"
  	]
 }
